@@ -15,6 +15,7 @@ import ProfilePage from "./pages/example-pages/ProfilePage.vue";
 import SignUpPage from "./pages/example-pages/SignUpPage.vue";
 import Sections from "./pages/Sections.vue";
 
+
 import Index from "./pages/index.vue";
 import Services from "./pages/Services.vue";
 import Showcase from "./pages/Showcase.vue";
