@@ -24,7 +24,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="/services" class="nav-link category">
+                    <a href="/pages/services" class="nav-link category">
                         Services
                     </a>
                 </li>
