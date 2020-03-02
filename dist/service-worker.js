@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4ab58d7238f95bf832f4b68f82272532.js"
+  "/precache-manifest.0131ff16c3437d247adfdfcd7244be3a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "snoDEV"});

@@ -16,11 +16,11 @@ import SignUpPage from "./pages/example-pages/SignUpPage.vue";
 import Sections from "./pages/Sections.vue";
 
 
-import Index from "./src/pages/index.vue";
-import Services from "./src/pages/Services.vue";
-import Showcase from "./src/pages/Showcase.vue";
-import About from "./src/pages/AboutUs.vue";
-import Contact from "./src/pages/contact.vue";
+import Index from "./pages/index.vue";
+import Services from "./pages/Services.vue";
+import Showcase from "./pages/Showcase.vue";
+import About from "./pages/AboutUs.vue";
+import Contact from "./pages/contact.vue";
 
 
 
